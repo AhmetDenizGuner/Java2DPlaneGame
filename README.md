@@ -1,0 +1,4 @@
+- Java 1.8 
+- Swing
+- executuble jar file in out\artifacts\UcakGame_jar path
+- If you miss 3 plane ,game over
